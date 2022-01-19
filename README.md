@@ -1,3 +1,3 @@
 # Navigation
 
-![](./navigation.png)
+![](./images/navigation.png)
